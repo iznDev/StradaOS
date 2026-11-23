@@ -1,0 +1,8 @@
+OK    · odómetro del auto: 45679.3 km (el simulado arrancó en 45678.9)
+OK    · sin odómetro: base 44200.0 km, sumó 1207.8501 m con la velocidad del escáner
+OK    · multi · 5914 consultas agrupadas (5914 con número de tramas), 25.1 consultas/s
+OK    · odómetro pedido · 53 veces 01A6
+OK    · lose · 20 «ATI» de rescate, 0 reconexiones, 74 consultas en los últimos 10 s
+OK    · nocount · 0 con número de tramas después del «?», 460 agrupadas
+OK    · nomulti · 0 agrupadas y 181 sueltas en los últimos 10 s
+OK    · noodo · 1 conexiones, 0 veces 01A6
